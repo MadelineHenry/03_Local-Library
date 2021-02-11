@@ -1,6 +1,19 @@
 @extends ('layouts.app')
 
-@section('')
+<!-- for the administrator, navigation bar with two links: logout and client  -->
+<!-- for the customer, navigation bar with a link: log out -->
+@if (Route::has('login' == admin))
+    <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
+    @auth
+        <a href="{{ url('/client') }}" class="text-sm text-gray-700 underline">Client</a>
+        <a href="{{ url('/logout') }}" class="text-sm text-gray-700 underline">Logout</a>
+        @else
+        <a href="{{ url('/logout') }}" class="text-sm text-gray-700 underline">Logout</a>
+    @endauth
+    </div>
+@endif
+
+@section('directory')
 
 <div class="directory_container">
     
@@ -68,6 +81,6 @@
             </td>
         </tr>
     </Table>
-    
+
 </div>
 @endsection
