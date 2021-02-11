@@ -41,28 +41,28 @@ What you need to get started ...
 
 ## Visual
 Based on the following mockup on Adobe XD: 
-[@home page]
+![@home page]
 (https://github.com/MadelineHenry/03_Local-Library/blob/main/assets/img/1.home_page_LocalLibrary.png)
 
-[@Login page]
+![@Login page]
 (https://github.com/MadelineHenry/03_Local-Library/blob/main/assets/img/2.login_page_LocalLibrary.png)
 
-[@Register_page]
+![@Register_page]
 (https://github.com/MadelineHenry/03_Local-Library/blob/main/assets/img/3.register_page_LocalLibrary.png)
 
-[@Admin_directory page]
+![@Admin_directory page]
 (https://github.com/MadelineHenry/03_Local-Library/blob/main/assets/img/4.admin_directory_page_LocalLibrary.png)
 
-[@Add_book page]
+![@Add_book page]
 (https://github.com/MadelineHenry/03_Local-Library/blob/main/assets/img/5.add_book_page_LocalLibrary.png)
 
-[@Modification_book page]
+![@Modification_book page]
 (https://github.com/MadelineHenry/03_Local-Library/blob/main/assets/img/6.modification_page_LocalLibrary.png)
 
-[@Client_directory page]
+![@Client_directory page]
 (https://github.com/MadelineHenry/03_Local-Library/blob/main/assets/img/7.client_directory_page_LocalLibrary.png)
 
-[@basket page]
+![@basket page]
 (https://github.com/MadelineHenry/03_Local-Library/blob/main/assets/img/8.basket_page_LocalLibrary.png)
 
 ## Final Result
